@@ -1,0 +1,204 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/setbar_bg"
+
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:id="@+id/L1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp">
+
+        <Button
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="2"
+            android:background="@drawable/setbar_bg"
+            android:text="@string/one_one"
+            android:textColor="@drawable/letter" />
+
+        <Button
+            android:layout_width="124dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="3"
+            android:background="@drawable/setbar_bg"
+            android:text="@string/one_two"
+            android:textColor="@drawable/letter" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="2"
+            android:background="@drawable/setbar_bg"
+            android:text="@string/one_three"
+            android:textColor="@drawable/letter" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="2"
+            android:background="@drawable/setbar_bg"
+            android:text="@string/one_four"
+            android:textColor="@drawable/letter" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/L2"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="2"
+            android:background="@drawable/setbar_bg"
+            android:textColor="@drawable/letter"
+            android:text="@string/two_one" />
+
+        <Button
+            android:layout_width="124dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="3"
+            android:background="@drawable/setbar_bg"
+            android:textColor="@drawable/letter"
+            android:text="@string/two_two" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="2"
+            android:background="@drawable/setbar_bg"
+            android:textColor="@drawable/letter"
+            android:text="@string/two_three" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="2"
+            android:background="@drawable/setbar_bg"
+            android:textColor="@drawable/letter"
+            android:text="@string/two_four" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/L3"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="2"
+            android:background="@drawable/setbar_bg"
+            android:text="@string/three_one"
+            android:textColor="@drawable/letter" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="2"
+            android:background="@drawable/setbar_bg"
+            android:text="@string/three_two"
+            android:textColor="@drawable/letter" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="2"
+            android:background="@drawable/setbar_bg"
+            android:text="@string/three_three"
+            android:textColor="@drawable/letter" />
+
+        <Button
+            android:layout_width="105dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="2"
+            android:background="@drawable/setbar_bg"
+            android:text="@string/three_foue"
+            android:textColor="@drawable/letter" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/L4"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="2"
+            android:background="@drawable/setbar_bg"
+            android:textColor="@drawable/letter"
+
+            android:text="@string/four_one" />
+
+        <Button
+            android:layout_width="123dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="3"
+            android:background="@drawable/setbar_bg"
+            android:text="@string/four_two"
+            android:textColor="@drawable/letter" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="2"
+            android:background="@drawable/setbar_bg"
+            android:textColor="@drawable/letter"
+            android:text="@string/four_three" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="2"
+            android:background="@drawable/setbar_bg"
+            android:textColor="@drawable/letter"
+            android:text="@string/four_four" />
+
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="one_one">ONE,ONE</string>
+    <string name="one_two">ONE,TWO</string>
+    <string name="one_three">ONE,THREE</string>
+    <string name="one_four">ONE,FOUR</string>
+    <string name="two_one">TWO,ONE</string>
+    <string name="two_two">TWO,TWO</string>
+    <string name="two_three">TWO,THREE</string>
+    <string name="two_four">TWO,FOUR</string>
+    <string name="three_one">THREE,ONE</string>
+    <string name="three_two">THREE,TWO</string>
+    <string name="three_three">THREE,THREE</string>
+    <string name="three_foue">THREE,FOUE</string>
+    <string name="four_one">FOUR,ONE</string>
+    <string name="four_two">FOUR,TWO</string>
+    <string name="four_three">FOUR, THREE</string>
+    <string name="four_four">FOUR,FOUR</string>
+</resources>
